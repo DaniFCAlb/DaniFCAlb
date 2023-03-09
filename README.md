@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaniFCAlb
 - 👀 I’m interested in learning development / Web Dev
-- 🌱 I’m currently learning C#, .NET, Amgular
+- 🌱 I’m currently learning C#, .NET, ASP.NET, Angular
 
 <!---
 - 💞️ I’m looking to collaborate on ...
